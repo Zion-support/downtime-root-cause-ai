@@ -1,2 +1,18 @@
-# downtime-root-cause-ai
-Zion AI App Network (Batch 93): AI downtime root-cause analysis — machine event correlation and fix recommendations.
+# Downtime Root Cause AI (Batch 93 — Manufacturing & Industrial AI)
+
+AI downtime root-cause analysis: machine event correlation and fix recommendations.
+
+**Part of the [Zion AI App Network](https://github.com/Zion-support/zion-network)** — 380+ free, open-source AI micro-apps.
+
+- Category: [Manufacturing & Industrial AI](https://github.com/Zion-support/zion-network/blob/main/network/manufacturing-industrial-ai.md)
+- Hub: https://ziontechgroup.com/apps/ · Discovery (free, online): https://ziontechgroup.com/discovery/
+- Batch spotlight: [SPOTLIGHT-2026-10-05-BATCH93](https://github.com/Zion-support/zion-network/blob/main/SPOTLIGHT-2026-10-05-BATCH93.md)
+
+## Sibling apps in Batch 93
+- [Production Scheduler AI](https://github.com/Zion-support/production-scheduler-ai)
+- [OEE Analytics Copilot](https://github.com/Zion-support/oee-analytics-copilot)
+- [Energy Load Shifter](https://github.com/Zion-support/energy-load-shifter)
+- [Safety Incident Analyzer](https://github.com/Zion-support/safety-incident-analyzer)
+- [Spare Parts Forecaster](https://github.com/Zion-support/spare-parts-forecaster)
+
+Free forever · Main site: https://ziontechgroup.com · Contact: commercial@ziontechgroup.com
